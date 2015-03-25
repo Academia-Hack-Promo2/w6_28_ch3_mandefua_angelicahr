@@ -1,0 +1,2 @@
+class HectorController < ApplicationController
+end
